@@ -2,7 +2,7 @@
 
 ## Leotheras the Blind
 
-- [Warlock Tank Guide](https://github.com/thefmade/prepared/wiki/Warlock#leotheras-tank)
+- [Warlock Tank Guide](/guides/classes/warlock.md#leotheras-tank)
 
 ## Lady Vashj
 
